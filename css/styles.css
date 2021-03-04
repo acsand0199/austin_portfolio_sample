@@ -1,0 +1,155 @@
+.top-container {
+    background-color: #fb743e;
+    padding-top: 100px;
+    position: relative;
+    height: 840px;
+}
+
+.middle-container {
+    background-color: #c5d7bd;
+    padding: 100px 0 100px 0;
+}
+
+.bottom-container {
+    background-color: #9fb8ad;
+    padding: 50px 0 20px 0;
+}
+
+.pro {
+    text-decoration: underline;
+}
+
+.top-cloud {
+    position: absolute;
+    right: 600px;
+    top: 50px;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 600px;
+    margin-top: 50px;
+}
+
+.profile-img {
+    width: 340px;
+    height: 340px;
+    margin-top: 40px;
+    border-radius: 50%;
+}
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+}
+
+.css3-img {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.python-img {
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+
+.mountain {
+    margin-top: 125px;
+}
+
+.myButton {
+    box-shadow: inset 0px 1px 3px 0px #91b8b3;
+    background: linear-gradient(to bottom, #ffffff 5%, #ffffff 100%);
+    background-color: #ffffff;
+    border-radius: 5px;
+    border: 1px solid #555756;
+    display: inline-block;
+    cursor: pointer;
+    color: #000000;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 15px;
+    font-weight: bold;
+    padding: 11px 23px;
+    text-decoration: none;
+    text-shadow: 0px -1px 0px #2b665e;
+}
+
+.myButton:hover {
+    background: linear-gradient(to bottom, #ffffff 5%, #ffffff 100%);
+    background-color: #ffffff;
+}
+
+.myButton:active {
+    position: relative;
+    top: 1px;
+}
+
+.intro {
+    width: 30%;
+    margin: auto;
+}
+
+.contact-message {
+    width: 40%;
+    margin: 40px auto 40px auto;
+}
+
+.copyright {
+    color: white;
+    font-size: 0.75rem;
+    padding: 20px 0 20px 0;
+}
+
+p {
+    line-height: 2;
+}
+
+hr {
+    border-style: dotted;
+    border-color: #9fb8ad;
+    border-width: 6px;
+    width: 4%;
+    border-bottom: none;
+    margin: 100px auto 100px auto;
+}
+
+a {
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    margin: 10px 20px 10px 20px;
+    text-decoration: none;
+}
+
+body {
+    margin: 0px;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+
+h1 {
+    font-size: 5.625rem;
+    margin: 50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    color: white;
+    line-height: 2;
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    color: white;
+    font-weight: normal;
+    padding-bottom: 10px;
+}
+
+h3 {
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+}
+
+a:hover {
+    color: #99ddff;
+}
